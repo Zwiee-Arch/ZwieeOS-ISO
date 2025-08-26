@@ -136,7 +136,9 @@ networkmanager
 gtk2
 gtk3
 gtk4
-libinput-gestures
+gdm
+tuned
+tuned-ppd
 # Calamares installer
 cappalinux-calamares
 cappalinux-calamares-config-zen
