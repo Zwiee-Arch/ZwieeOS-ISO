@@ -129,14 +129,15 @@ xfsprogs
 xl2tpd
 zsh
 base-devel
-# Xfce dependancy packages
-xfce4
-xfce4-goodies
+# Display manager dependancy packages
+ly
+xorg-xauth
+# Cosmic DE dependancy packages
+cosmic
 networkmanager
 gtk2
 gtk3
 gtk4
-gdm
 tuned
 tuned-ppd
 # Calamares installer
