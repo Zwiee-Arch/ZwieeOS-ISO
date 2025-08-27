@@ -141,8 +141,8 @@ gtk4
 tuned
 tuned-ppd
 # Calamares installer
-cappalinux-calamares
-cappalinux-calamares-config-zen
+calamares-sources
+calamares-config-zen
 ckbcomp
 mkinitcpio-openswap
 # Enchance color screen tool
